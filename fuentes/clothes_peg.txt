@@ -1,0 +1,16 @@
+Clothes Peg
+
+by Nick Potter = clothes_peg@pigmeat.cjb.net
+
+http://pigmeat.cjb.net
+
+Copy Write Free 1999.
+
+This font was discovered on the window of a laundromat in Melbourne, Australia (see clothes_peg.jpg.) I've attempted to use the style of the original artist. This is a free font, use however your mind sees fit. I'd like to know where and how you used it. If you pass this font along, please keep the three clothes_peg.* files together.
+
+This zip file contains:
+1. clothes_peg.ttf
+2. clothes_peg.jpg
+3. clothes_peg.txt
+
+end
